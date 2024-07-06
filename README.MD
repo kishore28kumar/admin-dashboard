@@ -1,3 +1,7 @@
+Project Status: Paused
+
+This project has been paused due to a shift in priorities.
+
 # true-donkeys-sneeze
 
 <div align="center" style="margin: 30px;">
